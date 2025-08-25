@@ -1,3 +1,4 @@
+#!groovy
 pipeline {
     // install golang 1.14 on Jenkins node
     agent any
